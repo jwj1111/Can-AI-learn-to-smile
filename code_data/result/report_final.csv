@@ -1,0 +1,313 @@
+﻿emoji,name,senti,count,conflict_rate,use_percentage
+😂, Face With Tears Of Joy ,positive,1179,0.3102541630148992,0.1161576354679803
+😊, Smiling Face With Smiling Eyes ,positive,858,0.042440318302387266,0.0845320197044335
+💪, Flexed Biceps ,positive,638,0.045454545454545456,0.06285714285714286
+🎉, Party Popper ,positive,589,0.07849829351535836,0.058029556650246304
+😄, Grinning Face With Smiling Eyes ,positive,512,0.04430379746835443,0.050443349753694584
+💸, Money With Wings ,neutral,289,0.0,0.028472906403940887
+🙏, Folded Hands ,positive,247,0.044534412955465584,0.02433497536945813
+💡, Light Bulb ,neutral,218,0.0,0.021477832512315272
+♀, Female Sign ,positive,201,0.0,0.01980295566502463
+👏, Clapping Hands ,positive,195,0.035897435897435895,0.01921182266009852
+🤣, Rolling On The Floor Laughing ,neutral,170,0.0,0.016748768472906402
+🚀, Rocket ,positive,169,0.07228915662650602,0.01665024630541872
+👀, Eyes ,positive,156,0.08333333333333333,0.015369458128078817
+🌟, Glowing Star ,positive,150,0.026845637583892617,0.014778325123152709
+🔥, Fire ,positive,148,0.10135135135135136,0.01458128078817734
+🤝, Handshake ,positive,146,0.020689655172413793,0.01438423645320197
+📚, Books ,neutral,138,0.0,0.013596059113300493
+💕, Two Hearts ,positive,137,0.0072992700729927005,0.013497536945812807
+👍, Thumbs Up ,positive,128,0.03937007874015748,0.012610837438423646
+🤷, Person Shrugging ,neutral,103,0.0,0.010147783251231527
+📝, Memo ,positive,102,0.0594059405940594,0.010049261083743842
+🌊, Water Wave ,positive,98,0.061224489795918366,0.009655172413793104
+📊, Bar Chart ,neutral,90,0.0,0.008866995073891626
+💻, Laptop Computer ,positive,86,0.05813953488372093,0.008472906403940886
+✨, Sparkles ,positive,83,0.02631578947368421,0.008177339901477832
+🌈, Rainbow ,positive,81,0.0375,0.007980295566502463
+😅, Grinning Face With Sweat ,positive,80,0.25,0.007881773399014778
+🕰, Mantelpiece Clock ,positive,78,0.20512820512820512,0.007684729064039409
+🏃, Person Running ,neutral,75,0.0,0.007389162561576354
+👑, Crown ,positive,75,0.04,0.007389162561576354
+💯, Hundred Points ,positive,70,0.04285714285714286,0.006896551724137931
+❤, Red Heart ,positive,67,0.04477611940298507,0.0066009852216748766
+🙌, Raising Hands ,positive,67,0.07462686567164178,0.0066009852216748766
+🏠, House ,neutral,62,0.0,0.006108374384236453
+🤓, Nerd Face ,positive,60,0.1,0.005911330049261084
+💧, Droplet ,positive,57,0.22807017543859648,0.00561576354679803
+😎, Smiling Face With Sunglasses ,positive,56,0.01818181818181818,0.005517241379310344
+💫, Dizzy ,positive,55,0.01818181818181818,0.00541871921182266
+📈, Chart Increasing ,neutral,55,0.0,0.00541871921182266
+😍, Smiling Face With Heart-Eyes ,positive,54,0.05555555555555555,0.005320197044334975
+🤑, Money-Mouth Face ,neutral,54,0.0,0.005320197044334975
+🍴, Fork And Knife ,positive,54,0.09433962264150944,0.005320197044334975
+💬, Speech Balloon ,positive,53,0.09433962264150944,0.005221674876847291
+🏆, Trophy ,positive,51,0.08888888888888889,0.005024630541871921
+🚨, Police Car Light ,neutral,49,0.0,0.004827586206896552
+🔍, Magnifying Glass Tilted Left ,neutral,49,0.0,0.004827586206896552
+🤖, Robot Face ,positive,47,0.10638297872340426,0.004630541871921182
+❄, Snowflake ,positive,44,0.1590909090909091,0.004334975369458128
+🏋, Person Lifting Weights ,neutral,44,0.0,0.004334975369458128
+🎊, Confetti Ball ,positive,44,0.09090909090909091,0.004334975369458128
+📱, Mobile Phone ,positive,42,0.0,0.004137931034482759
+👫, Man And Woman Holding Hands ,positive,42,0.047619047619047616,0.004137931034482759
+🚗, Automobile ,neutral,39,0.0,0.0038423645320197044
+👥, Busts In Silhouette ,neutral,37,0.0,0.003645320197044335
+🎨, Artist Palette ,positive,37,0.0,0.003645320197044335
+🔄, Counterclockwise Arrows Button ,positive,36,0.08333333333333333,0.0035467980295566504
+💆, Person Getting Massage ,positive,35,0.02857142857142857,0.0034482758620689655
+🌳, Deciduous Tree ,positive,34,0.029411764705882353,0.003349753694581281
+🌪, Tornado ,positive,33,0.18181818181818182,0.003251231527093596
+💖, Sparkling Heart ,positive,33,0.0,0.003251231527093596
+💦, Sweat Droplets ,neutral,31,0.0,0.0030541871921182266
+💃, Woman Dancing ,positive,30,0.03333333333333333,0.002955665024630542
+👨, Man ,positive,29,0.0,0.002857142857142857
+🌞, Sun With Face ,positive,28,0.12,0.002758620689655172
+💨, Dashing Away ,positive,26,0.11538461538461539,0.0025615763546798028
+📺, Television ,neutral,25,0.0,0.0024630541871921183
+😈, Smiling Face With Horns ,neutral,24,0.0,0.0023645320197044333
+👮, Police Officer ,neutral,24,0.0,0.0023645320197044333
+👦, Boy ,positive,24,0.0,0.0023645320197044333
+☀, Sun ,positive,23,0.0,0.002266009852216749
+🍲, Pot Of Food ,positive,23,0.043478260869565216,0.002266009852216749
+🏰, Castle ,positive,23,0.0,0.002266009852216749
+😁, Beaming Face With Smiling Eyes ,positive,23,0.0,0.002266009852216749
+🎶, Musical Notes ,positive,22,0.045454545454545456,0.002167487684729064
+🎵, Musical Note ,positive,22,0.045454545454545456,0.002167487684729064
+📸, Camera With Flash ,positive,22,0.0,0.002167487684729064
+🎁, Wrapped Gift ,positive,21,0.047619047619047616,0.0020689655172413794
+💊, Pill ,positive,21,0.19047619047619047,0.0020689655172413794
+🔮, Crystal Ball ,positive,21,0.09523809523809523,0.0020689655172413794
+🎮, Video Game ,positive,20,0.05,0.0019704433497536944
+🍵, Teacup Without Handle ,positive,20,0.1,0.0019704433497536944
+🌱, Seedling ,positive,20,0.0,0.0019704433497536944
+☕, Hot Beverage ,positive,19,0.21052631578947367,0.00187192118226601
+🥗, Green Salad ,positive,19,0.0,0.00187192118226601
+👅, Tongue ,positive,18,0.05555555555555555,0.0017733990147783252
+🕒, Three O’Clock ,neutral,18,0.0,0.0017733990147783252
+💭, Thought Balloon ,positive,18,0.05555555555555555,0.0017733990147783252
+🏯, Japanese Castle ,neutral,18,0.0,0.0017733990147783252
+🤗, Hugging Face ,positive,18,0.0,0.0017733990147783252
+⚡, High Voltage ,positive,18,0.0,0.0017733990147783252
+💰, Money Bag ,neutral,17,0.0,0.0016748768472906405
+🌿, Herb ,positive,17,0.058823529411764705,0.0016748768472906405
+👧, Girl ,positive,17,0.0,0.0016748768472906405
+💎, Gem Stone ,positive,17,0.058823529411764705,0.0016748768472906405
+🇨🇳, China ,positive,17,0.0,0.0016748768472906405
+👋, Waving Hand ,positive,16,0.1875,0.0015763546798029558
+😌, Relieved Face ,positive,16,0.0625,0.0015763546798029558
+📖, Open Book ,positive,16,0.0,0.0015763546798029558
+🌡, Thermometer ,positive,15,0.13333333333333333,0.001477832512315271
+🎥, Movie Camera ,positive,15,0.13333333333333333,0.001477832512315271
+🌌, Milky Way ,positive,15,0.06666666666666667,0.001477832512315271
+🎓, Graduation Cap ,positive,15,0.06666666666666667,0.001477832512315271
+🎯, Direct Hit ,positive,15,0.13333333333333333,0.001477832512315271
+🏹, Bow And Arrow ,positive,15,0.0,0.001477832512315271
+👩, Woman ,positive,14,0.0,0.001379310344827586
+🌴, Palm Tree ,positive,14,0.0,0.001379310344827586
+🏞, National Park ,positive,14,0.0,0.001379310344827586
+🌐, Globe With Meridians ,positive,14,0.0,0.001379310344827586
+🚪, Door ,neutral,14,0.0,0.001379310344827586
+☁, Cloud ,positive,14,0.07142857142857142,0.001379310344827586
+🍊, Tangerine ,positive,13,0.07692307692307693,0.0012807881773399014
+🚔, Oncoming Police Car ,neutral,12,0.0,0.0011822660098522167
+🌸, Cherry Blossom ,positive,12,0.0,0.0011822660098522167
+📹, Video Camera ,neutral,11,0.0,0.001083743842364532
+🌾, Sheaf Of Rice ,positive,11,0.09090909090909091,0.001083743842364532
+🎧, Headphone ,positive,11,0.18181818181818182,0.001083743842364532
+🍚, Cooked Rice ,positive,11,0.09090909090909091,0.001083743842364532
+🛍, Shopping Bags ,positive,10,0.1,0.0009852216748768472
+🛡, Shield ,neutral,10,0.0,0.0009852216748768472
+🌃, Night With Stars ,positive,10,0.2,0.0009852216748768472
+🍖, Meat On Bone ,positive,10,0.3,0.0009852216748768472
+🌕, Full Moon ,neutral,10,0.0,0.0009852216748768472
+🌫, Fog ,neutral,10,0.0,0.0009852216748768472
+🤤, Drooling Face ,positive,10,0.2,0.0009852216748768472
+📞, Telephone Receiver ,positive,9,0.1111111111111111,0.0008866995073891626
+👕, T-Shirt ,positive,9,0.1111111111111111,0.0008866995073891626
+🍎, Red Apple ,positive,9,0.2222222222222222,0.0008866995073891626
+👌, Ok Hand ,positive,9,0.1111111111111111,0.0008866995073891626
+🎤, Microphone ,neutral,9,0.0,0.0008866995073891626
+💄, Lipstick ,positive,9,0.0,0.0008866995073891626
+🔑, Key ,positive,9,0.0,0.0008866995073891626
+👪, Family ,positive,9,0.1111111111111111,0.0008866995073891626
+🎬, Clapper Board ,positive,9,0.1111111111111111,0.0008866995073891626
+🌆, Cityscape At Dusk ,positive,9,0.2222222222222222,0.0008866995073891626
+✈, Airplane ,positive,9,0.1111111111111111,0.0008866995073891626
+🍜, Steaming Bowl ,neutral,8,0.0,0.0007881773399014779
+🏊, Person Swimming ,neutral,8,0.0,0.0007881773399014779
+👴, Old Man ,neutral,8,0.0,0.0007881773399014779
+⚕, Medical Symbol ,positive,8,0.0,0.0007881773399014779
+🤞, Crossed Fingers ,neutral,8,0.0,0.0007881773399014779
+🍞, Bread ,positive,8,0.375,0.0007881773399014779
+🐦, Bird ,positive,8,0.0,0.0007881773399014779
+🔧, Wrench ,neutral,7,0.0,0.000689655172413793
+🔓, Unlocked ,neutral,7,0.0,0.000689655172413793
+🐓, Rooster ,neutral,7,0.0,0.000689655172413793
+🚣, Person Rowing Boat ,positive,7,0.14285714285714285,0.000689655172413793
+🔩, Nut And Bolt ,neutral,7,0.0,0.000689655172413793
+💚, Green Heart ,positive,7,0.0,0.000689655172413793
+🌙, Crescent Moon ,positive,7,0.14285714285714285,0.000689655172413793
+😹, Cat Face With Tears Of Joy ,positive,7,0.14285714285714285,0.000689655172413793
+🏖, Beach With Umbrella ,positive,7,0.0,0.000689655172413793
+🗺, World Map ,neutral,6,0.0,0.0005911330049261083
+🌠, Shooting Star ,positive,6,0.0,0.0005911330049261083
+🐰, Rabbit Face ,positive,6,0.0,0.0005911330049261083
+🚴, Person Biking ,positive,6,0.0,0.0005911330049261083
+🏢, Office Building ,positive,6,0.16666666666666666,0.0005911330049261083
+📢, Loudspeaker ,neutral,6,0.0,0.0005911330049261083
+🐎, Horse ,positive,6,0.0,0.0005911330049261083
+💘, Heart With Arrow ,positive,6,0.0,0.0005911330049261083
+👗, Dress ,positive,6,0.0,0.0005911330049261083
+🐲, Dragon Face ,neutral,6,0.0,0.0005911330049261083
+📍, Round Pushpin ,neutral,5,0.0,0.0004926108374384236
+📰, Newspaper ,neutral,5,0.0,0.0004926108374384236
+👓, Glasses ,positive,5,0.2,0.0004926108374384236
+🇫🇷, France ,positive,5,0.0,0.0004926108374384236
+🕊, Dove ,positive,5,0.2,0.0004926108374384236
+🚚, Delivery Truck ,positive,5,0.0,0.0004926108374384236
+🏛, Classical Building ,positive,5,0.0,0.0004926108374384236
+🇬🇧, United Kingdom ,neutral,4,0.0,0.00039408866995073894
+📆, Tear-Off Calendar ,positive,4,0.25,0.00039408866995073894
+🕷, Spider ,neutral,4,0.0,0.00039408866995073894
+🔀, Shuffle Tracks Button ,neutral,4,0.0,0.00039408866995073894
+🤴, Prince ,positive,4,0.5,0.00039408866995073894
+🙋, Person Raising Hand ,positive,4,0.0,0.00039408866995073894
+👃, Nose ,positive,4,0.0,0.00039408866995073894
+🐒, Monkey ,positive,4,0.0,0.00039408866995073894
+🍭, Lollipop ,positive,4,0.25,0.00039408866995073894
+🍋, Lemon ,positive,4,0.25,0.00039408866995073894
+🐴, Horse Face ,neutral,4,0.0,0.00039408866995073894
+🕳, Hole ,neutral,4,0.0,0.00039408866995073894
+🍳, Cooking ,neutral,4,0.0,0.00039408866995073894
+🌂, Closed Umbrella ,neutral,4,0.0,0.00039408866995073894
+🍻, Clinking Beer Mugs ,positive,4,0.0,0.00039408866995073894
+🐈, Cat ,neutral,4,0.0,0.00039408866995073894
+🦋, Butterfly ,positive,4,0.0,0.00039408866995073894
+🏀, Basketball ,neutral,4,0.0,0.00039408866995073894
+👶, Baby ,neutral,4,0.0,0.00039408866995073894
+💤, Zzz ,positive,3,0.0,0.00029556650246305416
+🐺, Wolf Face ,positive,3,0.3333333333333333,0.00029556650246305416
+☔, Umbrella With Rain Drops ,positive,3,0.0,0.00029556650246305416
+🎩, Top Hat ,positive,3,0.0,0.00029556650246305416
+🔝, Top Arrow ,positive,3,0.0,0.00029556650246305416
+🐯, Tiger Face ,neutral,3,0.0,0.00029556650246305416
+🔭, Telescope ,neutral,3,0.0,0.00029556650246305416
+🌄, Sunrise Over Mountains ,neutral,3,0.0,0.00029556650246305416
+📏, Straight Ruler ,positive,3,0.0,0.00029556650246305416
+🕸, Spider Web ,positive,3,0.0,0.00029556650246305416
+🔜, Soon Arrow ,neutral,3,0.0,0.00029556650246305416
+😻, Smiling Cat Face With Heart-Eyes ,positive,3,0.0,0.00029556650246305416
+🍰, Shortcake ,positive,3,0.0,0.00029556650246305416
+🏮, Red Paper Lantern ,neutral,3,0.0,0.00029556650246305416
+🏎, Racing Car ,positive,3,0.0,0.00029556650246305416
+👯, People With Bunny Ears ,positive,3,0.0,0.00029556650246305416
+🐾, Paw Prints ,positive,3,0.0,0.00029556650246305416
+🦁, Lion Face ,positive,3,0.0,0.00029556650246305416
+🌺, Hibiscus ,positive,3,0.0,0.00029556650246305416
+😸, Grinning Cat Face With Smiling Eyes ,positive,3,0.0,0.00029556650246305416
+🌍, Globe Showing Europe-Africa ,positive,3,0.0,0.00029556650246305416
+🦊, Fox Face ,neutral,3,0.0,0.00029556650246305416
+🌲, Evergreen Tree ,positive,3,0.3333333333333333,0.00029556650246305416
+🥁, Drum ,positive,3,0.0,0.00029556650246305416
+💐, Bouquet ,positive,3,0.0,0.00029556650246305416
+🌼, Blossom ,positive,3,0.3333333333333333,0.00029556650246305416
+🏸, Badminton ,neutral,3,0.0,0.00029556650246305416
+🛫, Airplane Departure ,positive,3,0.3333333333333333,0.00029556650246305416
+✍, Writing Hand ,positive,2,0.0,0.00019704433497536947
+🌬, Wind Face ,positive,2,0.0,0.00019704433497536947
+🙀, Weary Cat Face ,positive,2,0.5,0.00019704433497536947
+🌅, Sunrise ,positive,2,0.0,0.00019704433497536947
+🏅, Sports Medal ,neutral,2,0.0,0.00019704433497536947
+👟, Running Shoe ,neutral,2,0.0,0.00019704433497536947
+🌹, Rose ,positive,2,0.0,0.00019704433497536947
+➡, Right Arrow ,neutral,2,0.0,0.00019704433497536947
+🔁, Repeat Button ,positive,2,0.0,0.00019704433497536947
+🍿, Popcorn ,positive,2,0.0,0.00019704433497536947
+🤺, Person Fencing ,positive,2,0.0,0.00019704433497536947
+🖌, Paintbrush ,positive,2,0.0,0.00019704433497536947
+🌑, New Moon ,positive,2,0.0,0.00019704433497536947
+💅, Nail Polish ,positive,2,0.0,0.00019704433497536947
+🕺, Man Dancing ,positive,2,0.0,0.00019704433497536947
+📨, Incoming Envelope ,positive,2,0.5,0.00019704433497536947
+🌶, Hot Pepper ,neutral,2,0.0,0.00019704433497536947
+🚁, Helicopter ,positive,2,0.5,0.00019704433497536947
+✔, Heavy Check Mark ,positive,2,0.0,0.00019704433497536947
+🐣, Hatching Chick ,positive,2,0.0,0.00019704433497536947
+🎸, Guitar ,positive,2,0.0,0.00019704433497536947
+🇩🇪, Germany ,positive,2,0.0,0.00019704433497536947
+🎲, Game Die ,neutral,2,0.0,0.00019704433497536947
+🖋, Fountain Pen ,positive,2,0.0,0.00019704433497536947
+🍂, Fallen Leaf ,positive,2,0.5,0.00019704433497536947
+🌽, Ear Of Corn ,positive,2,1.0,0.00019704433497536947
+🦅, Eagle ,positive,2,0.0,0.00019704433497536947
+🦆, Duck ,neutral,2,0.0,0.00019704433497536947
+🐉, Dragon ,positive,2,0.0,0.00019704433497536947
+⚔, Crossed Swords ,positive,2,0.0,0.00019704433497536947
+🧀, Cheese Wedge ,neutral,2,0.0,0.00019704433497536947
+🏴, Black Flag ,positive,2,0.0,0.00019704433497536947
+🔔, Bell ,neutral,2,0.0,0.00019704433497536947
+🎈, Balloon ,positive,2,0.0,0.00019704433497536947
+🍷, Wine Glass ,positive,1,0.0,9.852216748768474e-05
+🌘, Waning Crescent Moon ,positive,1,0.0,9.852216748768474e-05
+🌋, Volcano ,positive,1,0.0,9.852216748768474e-05
+🎺, Trumpet ,positive,1,0.0,9.852216748768474e-05
+🍹, Tropical Drink ,neutral,1,0.0,9.852216748768474e-05
+📐, Triangular Ruler ,neutral,1,0.0,9.852216748768474e-05
+🕶, Sunglasses ,positive,1,0.0,9.852216748768474e-05
+🍓, Strawberry ,positive,1,0.0,9.852216748768474e-05
+🛑, Stop Sign ,neutral,1,0.0,9.852216748768474e-05
+🗽, Statue Of Liberty ,neutral,1,0.0,9.852216748768474e-05
+🏟, Stadium ,positive,1,0.0,9.852216748768474e-05
+🔊, Speaker High Volume ,neutral,1,0.0,9.852216748768474e-05
+🍦, Soft Ice Cream ,positive,1,0.0,9.852216748768474e-05
+🤘, Sign Of The Horns ,positive,1,0.0,9.852216748768474e-05
+🦐, Shrimp ,positive,1,0.0,9.852216748768474e-05
+🛰, Satellite ,positive,1,0.0,9.852216748768474e-05
+🎀, Ribbon ,positive,1,0.0,9.852216748768474e-05
+👸, Princess ,positive,1,0.0,9.852216748768474e-05
+🍗, Poultry Leg ,positive,1,0.0,9.852216748768474e-05
+💇, Person Getting Haircut ,positive,1,0.0,9.852216748768474e-05
+🥜, Peanuts ,positive,1,1.0,9.852216748768474e-05
+📂, Open File Folder ,positive,1,0.0,9.852216748768474e-05
+🗝, Old Key ,positive,1,0.0,9.852216748768474e-05
+🍄, Mushroom ,neutral,1,0.0,9.852216748768474e-05
+⛰, Mountain ,positive,1,0.0,9.852216748768474e-05
+🍁, Maple Leaf ,positive,1,0.0,9.852216748768474e-05
+🔗, Link ,neutral,1,0.0,9.852216748768474e-05
+🍃, Leaf Fluttering In Wind ,positive,1,0.0,9.852216748768474e-05
+💋, Kiss Mark ,positive,1,0.0,9.852216748768474e-05
+💏, Kiss ,neutral,1,0.0,9.852216748768474e-05
+🕹, Joystick ,positive,1,0.0,9.852216748768474e-05
+🎃, Jack-O-Lantern ,positive,1,0.0,9.852216748768474e-05
+🇮🇹, Italy ,neutral,1,0.0,9.852216748768474e-05
+🔢, Input Numbers ,neutral,1,0.0,9.852216748768474e-05
+🏇, Horse Racing ,neutral,1,0.0,9.852216748768474e-05
+🚄, High-Speed Train ,positive,1,0.0,9.852216748768474e-05
+💗, Growing Heart ,positive,1,0.0,9.852216748768474e-05
+🥛, Glass Of Milk ,positive,1,0.0,9.852216748768474e-05
+🐥, Front-Facing Baby Chick ,positive,1,0.0,9.852216748768474e-05
+🍀, Four Leaf Clover ,positive,1,0.0,9.852216748768474e-05
+📽, Film Projector ,positive,1,0.0,9.852216748768474e-05
+📀, Dvd ,neutral,1,0.0,9.852216748768474e-05
+🖥, Desktop Computer ,neutral,1,0.0,9.852216748768474e-05
+🇩🇰, Denmark ,neutral,1,0.0,9.852216748768474e-05
+🍮, Custard ,positive,1,0.0,9.852216748768474e-05
+⛈, Cloud With Lightning And Rain ,positive,1,0.0,9.852216748768474e-05
+🌩, Cloud With Lightning ,positive,1,0.0,9.852216748768474e-05
+📋, Clipboard ,positive,1,0.0,9.852216748768474e-05
+🥂, Clinking Glasses ,positive,1,0.0,9.852216748768474e-05
+🍫, Chocolate Bar ,positive,1,0.0,9.852216748768474e-05
+🐿, Chipmunk ,positive,1,1.0,9.852216748768474e-05
+📷, Camera ,positive,1,0.0,9.852216748768474e-05
+👰, Bride With Veil ,positive,1,0.0,9.852216748768474e-05
+🛏, Bed ,neutral,1,0.0,9.852216748768474e-05
+🐻, Bear Face ,neutral,1,0.0,9.852216748768474e-05
+🦇, Bat ,positive,1,0.0,9.852216748768474e-05
+🏦, Bank ,neutral,1,0.0,9.852216748768474e-05
+🍌, Banana ,neutral,1,0.0,9.852216748768474e-05
+👉, Backhand Index Pointing Right ,neutral,1,0.0,9.852216748768474e-05
+👇, Backhand Index Pointing Down ,neutral,1,0.0,9.852216748768474e-05
+🇦🇷, Argentina ,positive,1,0.0,9.852216748768474e-05
+⚓, Anchor ,positive,1,0.0,9.852216748768474e-05
+🎟, Admission Tickets ,positive,1,0.0,9.852216748768474e-05
